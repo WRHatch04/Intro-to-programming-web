@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(3, 244, 236); 
+    color: black;
+}
+
+img {
+    border: 5px solid; 
+}
+
+h2 {
+    background-color: rgb(170, 255, 252); 
+    color: black;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.purple_text {
+    color: rgb(135, 15, 123);  
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+   
